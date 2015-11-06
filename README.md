@@ -1,0 +1,2 @@
+# MergeTest3
+CodeCompareFileMergeTest
